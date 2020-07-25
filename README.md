@@ -42,3 +42,21 @@ $ rails server
 
 * **email** : sample@email.com
 * **password** : password
+
+ git　cloneから自分のアカウントにpushする。
+ 
+ $ git config --global user.name "yoh-yamamura"
+ 
+ $ git config --global user.email love.is.enemy928@gmail.com
+ 
+ $ git config --global -l
+ 
+ $ git init
+ 
+ $ git remote set-url origin https://github.com/yoh-yamamura/sample-app.git
+ 
+ $ git remote -v
+ 
+ $ 
+ 
+ 
